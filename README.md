@@ -16,14 +16,15 @@ Once deployed, visit:
 ## 📂 Project Structure
 - `index.html` → Main homepage  
 - `style.css` → Website styles  
-- `logo.png` → Brand logo (replace with your official round logo)  
+- `logo.png` → Brand logo (replace with your official round logo if needed)  
+- `README.md` → Project information  
 
 ---
 
 ## 🚀 How to Update
 1. Edit `index.html` for content changes.  
 2. Edit `style.css` for colors and styling.  
-3. Replace `logo.png` with your actual logo.  
+3. Replace `logo.png` with your actual logo (if updating).  
 4. Commit & push changes → the site auto-updates.  
 
 ---
